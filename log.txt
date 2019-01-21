@@ -1,0 +1,39 @@
+wrong choice
+VENUE DETAILS
+________________________________________________________________________
+Date of Event = 02/01/2019
+Name of venue = Sellersville Theater 1894
+________________________________________________________________________
+Name of venue = Daryl's House
+________________________________________________________________________
+Location of venue = Pawling , United States
+Location of venue = Sellersville , United States
+________________________________________________________________________
+Name of venue = State Theatre
+________________________________________________________________________
+Date of Event = 05/17/2019
+Location of venue = Falls Church , United States
+Date of Event = 02/02/2019
+________________________________________________________________________
+________________________________________________________________________
+Artist Name = Backstreet Boys
+Preview Link = https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=069616c8dab1496abd77898ef63f14fd
+________________________________________________________________________
+Album Name = The Hits--Chapter One
+Song Name = I Want It That Way
+________________________________________________________________________
+Title = The Lion King
+Rotten Tomatoes = 93%
+Country = USA
+Language = English, Swahili, Xhosa, Zulu
+Rating = 8.5
+Plot = A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Year = 1994
+_________________________________________________________________________
+Actors = Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+________________________________________________________________________
+Artist Name = Tate McRae
+Preview Link = https://p.scdn.co/mp3-preview/cb20b4004940c3eae57de97f7287047a43f22d1d?cid=069616c8dab1496abd77898ef63f14fd
+________________________________________________________________________
+Album Name = One Day
+Song Name = One Day
