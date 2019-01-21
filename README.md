@@ -26,10 +26,9 @@ This will show the following information about the song in your terminal/bash wi
 
 * The album that the song is from
 
-![Alt text](https://github.com/satinder042890/liri-node-app/blob/master/images/concerts.png)
-
-
 *If no song is provided then your program will default to "The Sign" by Ace of Base.*
+
+![Alt text](https://github.com/satinder042890/liri-node-app/blob/master/images/spotify.png)
 
 ### 3. node liri.js movie-this '<movie name here>'
 
@@ -44,11 +43,9 @@ This will output the following information to your terminal/bash window:
   * Plot of the movie.
   * Actors in the movie.
   
-*If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+*If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'*
 
-If you haven't watched "Mr. Nobody," then you should: http://www.imdb.com/title/tt0485947/
-
-It's on Netflix!*
+![Alt text](https://github.com/satinder042890/liri-node-app/blob/master/images/movie.png)
 
 **You'll use the request package to retrieve data from the OMDB API. The OMDB API requires an API key. You may use trilogy.**
 
@@ -60,6 +57,10 @@ It's on Netflix!*
 
 * Edit the text in random.txt to test out the feature for movie-this and my-tweets
 
+![Alt text](https://github.com/satinder042890/liri-node-app/blob/master/images/dowhatitsays.png)
+
 ### 5. In addition to logging the data to your terminal/bash window, output the data to a .txt file called log.txt.
 * Make sure you append each command you run to the log.txt file. 
 * Do not overwrite your file each time you run a command.
+
+![Alt text](https://github.com/satinder042890/liri-node-app/blob/master/images/logfile.png)
