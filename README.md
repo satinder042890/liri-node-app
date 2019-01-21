@@ -12,8 +12,8 @@ This will search the Bands in Town Artist Events API ("https://rest.bandsintown.
 
 * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
+![Alt text](https://github.com/satinder042890/liri-node-app/blob/master/images/concerts.png)
 
-!(/images/concerts.png)
 ### 2. node liri.js spotify-this-song '<song name here>'
 
 This will show the following information about the song in your terminal/bash window
