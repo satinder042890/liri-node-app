@@ -26,6 +26,9 @@ This will show the following information about the song in your terminal/bash wi
 
 * The album that the song is from
 
+![Alt text](https://github.com/satinder042890/liri-node-app/blob/master/images/concerts.png)
+
+
 *If no song is provided then your program will default to "The Sign" by Ace of Base.*
 
 ### 3. node liri.js movie-this '<movie name here>'
