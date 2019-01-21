@@ -54,3 +54,41 @@ ________________________________________________________________________
 ________________________________________________________________________
 Date of Event = 05/17/2019
 Name of venue = State Theatre
+________________________________________________________________________
+Artist Name = Tate McRae
+Album Name = One Day
+Preview Link = https://p.scdn.co/mp3-preview/cb20b4004940c3eae57de97f7287047a43f22d1d?cid=069616c8dab1496abd77898ef63f14fd
+________________________________________________________________________
+Song Name = One Day
+________________________________________________________________________
+Preview Link = https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=069616c8dab1496abd77898ef63f14fd
+Artist Name = Ace of Base
+________________________________________________________________________
+Album Name = The Sign (US Album) [Remastered]
+Song Name = The Sign
+________________________________________________________________________
+Title = The Lion King
+Rotten Tomatoes = 93%
+Year = 1994
+Country = USA
+Language = English, Swahili, Xhosa, Zulu
+Rating = 8.5
+_________________________________________________________________________
+Plot = A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors = Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+________________________________________________________________________
+Title = Mr. Nobody
+Rotten Tomatoes = 67%
+Year = 2009
+Country = Belgium, Germany, Canada, France, USA, UK
+Language = English, Mohawk
+Rating = 7.9
+_________________________________________________________________________
+Plot = A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors = Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+________________________________________________________________________
+Artist Name = Backstreet Boys
+Song Name = I Want It That Way
+Preview Link = https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=069616c8dab1496abd77898ef63f14fd
+Album Name = The Hits--Chapter One
+________________________________________________________________________
