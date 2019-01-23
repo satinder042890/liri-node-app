@@ -64,3 +64,8 @@ This will output the following information to your terminal/bash window:
 * Do not overwrite your file each time you run a command.
 
 ![Alt text](https://github.com/satinder042890/liri-node-app/blob/master/images/logfile.png)
+
+
+##### Video Link
+
+https://drive.google.com/file/d/1Oayd6ltd45xzBFsClnw2qqbirNhtRlka/view
