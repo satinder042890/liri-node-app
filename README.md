@@ -68,4 +68,4 @@ This will output the following information to your terminal/bash window:
 
 ##### Video Link
 
-https://drive.google.com/file/d/1Oayd6ltd45xzBFsClnw2qqbirNhtRlka/view
+https://drive.google.com/drive/folders/1-Q8IyDImDj8BBK--ET-99baweEDgriLG?usp=sharing
